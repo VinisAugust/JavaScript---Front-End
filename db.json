@@ -1,0 +1,19 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "title": "Teclado",
+      "price": 99.9
+    },
+    {
+      "id": 2,
+      "title": "Mouse",
+      "price": 59.9
+    },
+    {
+      "id": "9b02",
+      "nome": "vini",
+      "preco": 1.2
+    }
+  ]
+}
